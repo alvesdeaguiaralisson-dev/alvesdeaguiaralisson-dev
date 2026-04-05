@@ -68,14 +68,14 @@ Estou em constante evolução, buscando aprimorar minhas habilidades em programa
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=alvesdeaguiaralisson-dev&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesdeaguiaralisson-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 
 </p>

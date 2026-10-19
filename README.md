@@ -10,7 +10,7 @@ Python, C, SQL, Git, Arduino, ESP32
 
 ### Sistema-De-Ponto-E-Folha-De-Pagamento
 - O que faz: Sistema de ponto e folha de pagamento em Python.
-- Stack: Python, SQL, Git
+- Stack: Python, SQL, C, C++
 - Repositório: https://github.com/alvesdeaguiaralisson-dev/Sistema-De-Ponto-E-Folha-De-Pagamento
 
 ### Alarme_esp32
@@ -18,10 +18,7 @@ Python, C, SQL, Git, Arduino, ESP32
 - Stack: Arduino, ESP32, C
 - Repositório: https://github.com/alvesdeaguiaralisson-dev/Alarme_esp32
 
-### [PREENCHER: nome do projeto adicional]
-- O que faz: [PREENCHER: descrição do projeto em uma linha]
-- Stack: [PREENCHER: tecnologias usadas]
-- Repositório: [PREENCHER: link do repositório]
+
 
 ## Contato
 

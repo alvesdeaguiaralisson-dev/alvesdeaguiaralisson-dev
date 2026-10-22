@@ -13,6 +13,11 @@ Python, C, SQL, Git, Arduino, ESP32
 - Stack: Python, SQL, C, C++
 - Repositório: https://github.com/alvesdeaguiaralisson-dev/Sistema-De-Ponto-E-Folha-De-Pagamento
 
+### Sistema de Rastreamento Solar Automatizado
+- O que faz: Sistema de rastreamento solar que muda a posição automaticamente.
+- Stack: C++
+- Repositório: https://github.com/alvesdeaguiaralisson-dev/rastreador-solar
+
 ### Alarme_esp32
 - O que faz: Sistema de alarme com ESP32.
 - Stack: Arduino, ESP32, C
